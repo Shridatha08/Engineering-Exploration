@@ -1,4 +1,4 @@
-# Engineering-Exploration
+# Robot Musician
 ### A simple robotic one finger piano plinker using two servos, Arduino Uno, some aluminum flashing and a fishing pole for the sliding rails.
 
 |![](https://i.stack.imgur.com/eDkyE.jpg)|
