@@ -18,3 +18,4 @@
 Used a fishing pole and cut a couple of short sections to slide outside two longer pieces. Then epoxied them too some wood connectors. Connected the two outside sliding pieces with a wooden platform on which is mounted the aluminum holder of the finger servo.
 
  
+> Checkout wiki section for detailed explaination.
